@@ -13,5 +13,5 @@ if (age >= 13 && age <= 19) {
 }
 
 function ageChecker(age) {
-  
+
 }
