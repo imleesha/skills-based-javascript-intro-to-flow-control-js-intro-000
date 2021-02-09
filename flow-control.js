@@ -7,5 +7,5 @@ if (age >= 12 && age <=19) {
 }
 
 function teenager(age) {
-  
+
 }
